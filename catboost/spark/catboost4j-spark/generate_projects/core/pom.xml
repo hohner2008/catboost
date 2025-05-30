@@ -24,7 +24,7 @@
         <catboost_root>${global_project_root}/../..</catboost_root>
         <core_project_root>${global_project_root}/core</core_project_root>
         <src.root>${core_project_root}/src</src.root>
-        <buildNative.extraArgs></buildNative.extraArgs>
+        <buildNative.extraArgs/>
     </properties>
 
     <distributionManagement>
@@ -258,7 +258,7 @@
         <dependency>
             <groupId>io.github.classgraph</groupId>
             <artifactId>classgraph</artifactId>
-            <version>4.8.98</version>
+            <version>4.8.179</version>
         </dependency>
 
         <!--
