@@ -24,7 +24,7 @@
         <catboost_root>${global_project_root}/../..</catboost_root>
         <core_project_root>${global_project_root}/core</core_project_root>
         <src.root>${core_project_root}/src</src.root>
-        <buildNative.extraArgs></buildNative.extraArgs>
+        <buildNative.extraArgs/>
     </properties>
 
     <distributionManagement>
@@ -222,7 +222,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.7</version>
+            <version>2.19.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
