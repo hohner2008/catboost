@@ -21,7 +21,7 @@
     </licenses>
 
     <properties>
-        <buildNative.extraArgs></buildNative.extraArgs>
+        <buildNative.extraArgs/>
     </properties>
 
     <organization>
@@ -162,7 +162,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
-            <version>1.7.25</version>
+            <version>1.7.36</version>
         </dependency>
 
         <dependency>
