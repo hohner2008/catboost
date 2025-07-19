@@ -24,7 +24,7 @@
         <catboost_root>${global_project_root}/../..</catboost_root>
         <core_project_root>${global_project_root}/core</core_project_root>
         <src.root>${core_project_root}/src</src.root>
-        <buildNative.extraArgs></buildNative.extraArgs>
+        <buildNative.extraArgs/>
     </properties>
 
     <distributionManagement>
@@ -227,7 +227,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.11</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
