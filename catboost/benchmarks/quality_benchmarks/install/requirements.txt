@@ -7,3 +7,4 @@ networkx==1.11
 hyperopt==0.0.2
 jupyter
 matplotlib
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
