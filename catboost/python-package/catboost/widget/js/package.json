@@ -17,7 +17,7 @@
   "dependencies": {
     "@jupyter-widgets/base": "^2 || ^3 || ^4 || ^5 || ^6",
     "jquery": "^3.6.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "plotly.js-dist-min": "^1.58.4"
   },
   "devDependencies": {
